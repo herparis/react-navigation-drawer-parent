@@ -23,7 +23,7 @@ const {
   clockRunning,
   startClock,
   stopClock,
-  interpolate: interpolateNode,
+  interpolateNode,
   spring,
   abs,
   add,
